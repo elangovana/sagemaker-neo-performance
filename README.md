@@ -1,2 +1,4 @@
 # sagemaker-neo-performance
-Tests the performance for pagemaker Neo
+Tests the performance for Sagemaker Neo
+
+Work in progress....
